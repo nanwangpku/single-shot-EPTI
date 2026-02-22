@@ -1,7 +1,8 @@
 Description:
 Single-shot EPTI is a promising technique for fMRI studies. It provides distrotion-free multi-echo images for spin-echo (SE) or gradient-echo (GE) sequences, 
 opening the door to Bold and non-Bold analysis.
-Multiple datasets have been published for test purpose.
+Multiple datasets have been published for test purpose:
+https://drive.google.com/drive/folders/1bPJQYSPVCmuG7LU_kBg0O7w95GNo_Z_u?dmr=1&ec=wgc-drive-hero-goto
 
 1. resting-state ss-EPTI
 GE sequence
