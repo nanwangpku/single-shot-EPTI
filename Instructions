@@ -1,1 +1,28 @@
-single-shot EPTI 
+Description:
+Single-shot EPTI is a promising technique for fMRI studies. It provides distrotion-free multi-echo images for spin-echo (SE) or gradient-echo (GE) sequences, 
+opening the door to Bold and non-Bold analysis.
+Multiple datasets have been published for test purpose.
+
+1. resting-state ss-EPTI
+GE sequence
+TR = 1.9 ms, TE = 5-65 ms, FA = 70
+FOV = 216 x 216 mm2, matrix = 72x72, resolution = 3x3 mm2
+number of slices > 42, slice thickness = 3 mm
+SMS factor = 2
+
+2. Visual flickeing experiment
+GE sequence
+TR = 1.9 ms, TE = 5-65 ms, FA = 70
+FOV = 216 x 216 mm2, matrix = 72x72, resolution = 3x3 mm2
+number of slices > 42, slice thickness = 3 mm
+SMS factor = 2
+
+2. Breath-holding experiment
+GE sequence
+TR = 1.9 ms, TE = 5-65 ms, FA = 70
+FOV = 216 x 216 mm2, matrix = 72x72, resolution = 3x3 mm2
+number of slices > 42, slice thickness = 3 mm
+SMS factor = 2
+
+
+
